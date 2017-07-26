@@ -2,8 +2,8 @@
 Desenvolvido Por: mLabs
 -->
 <?php
-$url = "http://m-l-a-b-s.com/";
-$title = "mLabs";
+$url = "http://melhorcurso.ga/";
+$title = "melhorcurso";
 
 $var = array(
         "1" => array(
